@@ -1,0 +1,12 @@
+---
+format: 
+  clean-revealjs:
+    self-contained: true
+    navigation-mode: linear
+    controls-layout: bottom-right
+    controls: true
+title: "ITRES1005 - Job Interview"
+author: "Patricia Ternes"
+---
+
+Research Software Engineering Manager ITRES1005

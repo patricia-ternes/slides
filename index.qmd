@@ -1,0 +1,16 @@
+---
+title: "Patricia Ternes Slides"
+format:
+  html:
+    embed-resources: true
+---
+
+Public facing homepage for Dr Ternes' slides collection.
+
+## Slides: 
+
+Note: this page is under construction. As soon as the slides are available,
+the link will be provided.
+
+- [Research Software Engineering Manager - Job Interview](./slides/job/rsem.qmd)
+

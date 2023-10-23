@@ -1,0 +1,7 @@
+project:
+  type: website
+
+website:
+  title: "Patricia Ternes Slides"
+  site-url: https://patricia-ternes.github.io/slides/
+  description: "Public facing homepage for Dr Ternes' slides collection."
