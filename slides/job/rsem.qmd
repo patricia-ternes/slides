@@ -5,10 +5,76 @@ format:
     navigation-mode: linear
     controls-layout: bottom-right
     controls: true
-title: "ITRES1005 - Job Interview"
-author: "Patricia Ternes"
+    footer: "Dr Patricia Ternes | Research Software Engineering Manager [ITRES1005]"
+title: "Job Interview - ITRES1005"
+author: "Dr Patricia Ternes"
 ---
 
-# Research Software Engineering Manager ITRES1005
+## Facing the future of RSE
 
-## Hi
+### Building a modern RSE Service
+
+Summary
+
+- Context
+- Pillars of Research Software Engineering
+- Future
+
+## Context: Data Era
+
+![Volume of data/information created, captured, copied, and consumed worldwide from 2010 to 2020, with forecasts from 2021 to 2025. From [Statista](https://www.statista.com/statistics/871513/worldwide-data-created/)](../../assets/img/rsem/data.png)
+
+
+## Context: Software Usuability {.smaller}
+
+> It's impossible to conduct research without software, say 7 out of 10 UK researchers.
+
+[By Simon Hettrick (2014) - Software Sustainability Institute](https://www.software.ac.uk/blog/its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers#:~:text=The%20use%20of%20research%20software%20is%20fairly%20even%20across%20all,87%2D100%25%20is%20typical.)
+
+- survey of researchers at 15 Russell Group universities
+- 92% of academics use research software
+- 69% say that their research would not be practical without it
+- 56% develop their own software (21% of those have no training in software development)
+
+## Context: Reproducibility crisis
+
+[Nature (2016): 1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a)
+
+> More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
+
+## Context: Reproducibility & Changes
+
+[Nature (2023): The replication crisis has led to positive structural, procedural, and community changes](https://www.nature.com/articles/533452a)
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44271-023-00003-2/MediaObjects/44271_2023_3_Fig1_HTML.png?as=webp)
+
+## Pillars of Research Software Engineering
+
+![The Four Pillars of RSE - from: [IEEE Software ( Volume: 38, Issue: 1, Jan.-Feb. 2021)](https://doi.org/10.1109/MS.2020.2973362)](../../assets/img/rsem/4pillars.png)
+
+## Future: Community{.smaller}
+
+- Research Computing Champions
+- Research Computing Conference
+- International RSE Day Meetup (second Thursday in October)
+- 12 days of HPC
+- TechTalk
+- Drop-in Sessions
+- Research Computing Community (Teams channel)
+- Regular meetings with CDTs and Schools
+- CEMAC & LIDA & Library Team
+- Leeds Digital Festival
+- Research IT Engagement Community
+- Blog/Monthly newsletter
+
+## Future: Policy
+
+- Skills map
+- Define metrics
+- Measuring the impact of RSE
+- Annual Report
+- RSE's Career paths
+- Mentoring scheme or Intership Program for Junior RSEs
+- Senior RSE / SubGoups - ML/web/database
+
+# Questions?
