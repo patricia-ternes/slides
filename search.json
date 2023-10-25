@@ -14,10 +14,59 @@
     "text": "Slides:\nNote: this page is under construction. As soon as the slides are available, the link will be provided.\n\nResearch Software Engineering Manager - Job Interview"
   },
   {
-    "objectID": "slides/job/rsem.html#hi",
-    "href": "slides/job/rsem.html#hi",
-    "title": "ITRES1005 - Job Interview",
-    "section": "Hi",
-    "text": "Hi"
+    "objectID": "slides/job/rsem.html#facing-the-future-of-rse",
+    "href": "slides/job/rsem.html#facing-the-future-of-rse",
+    "title": "Job Interview - ITRES1005",
+    "section": "Facing the future of RSE",
+    "text": "Facing the future of RSE\nBuilding a modern RSE Service\nSummary\n\nContext\nPillars of Research Software Engineering\nFuture"
+  },
+  {
+    "objectID": "slides/job/rsem.html#context-data-era",
+    "href": "slides/job/rsem.html#context-data-era",
+    "title": "Job Interview - ITRES1005",
+    "section": "Context: Data Era",
+    "text": "Context: Data Era\n\nVolume of data/information created, captured, copied, and consumed worldwide from 2010 to 2020, with forecasts from 2021 to 2025. From Statista"
+  },
+  {
+    "objectID": "slides/job/rsem.html#context-software-usuability",
+    "href": "slides/job/rsem.html#context-software-usuability",
+    "title": "Job Interview - ITRES1005",
+    "section": "Context: Software Usuability",
+    "text": "Context: Software Usuability\n\nIt’s impossible to conduct research without software, say 7 out of 10 UK researchers.\n\nBy Simon Hettrick (2014) - Software Sustainability Institute\n\nsurvey of researchers at 15 Russell Group universities\n92% of academics use research software\n69% say that their research would not be practical without it\n56% develop their own software (21% of those have no training in software development)"
+  },
+  {
+    "objectID": "slides/job/rsem.html#context-reproducibility-crisis",
+    "href": "slides/job/rsem.html#context-reproducibility-crisis",
+    "title": "Job Interview - ITRES1005",
+    "section": "Context: Reproducibility crisis",
+    "text": "Context: Reproducibility crisis\nNature (2016): 1,500 scientists lift the lid on reproducibility\n\nMore than 70% of researchers have tried and failed to reproduce another scientist’s experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature’s survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research."
+  },
+  {
+    "objectID": "slides/job/rsem.html#context-reproducibility-changes",
+    "href": "slides/job/rsem.html#context-reproducibility-changes",
+    "title": "Job Interview - ITRES1005",
+    "section": "Context: Reproducibility & Changes",
+    "text": "Context: Reproducibility & Changes\nNature (2023): The replication crisis has led to positive structural, procedural, and community changes"
+  },
+  {
+    "objectID": "slides/job/rsem.html#pillars-of-research-software-engineering",
+    "href": "slides/job/rsem.html#pillars-of-research-software-engineering",
+    "title": "Job Interview - ITRES1005",
+    "section": "Pillars of Research Software Engineering",
+    "text": "Pillars of Research Software Engineering\n\nThe Four Pillars of RSE - from: IEEE Software ( Volume: 38, Issue: 1, Jan.-Feb. 2021)"
+  },
+  {
+    "objectID": "slides/job/rsem.html#future-community",
+    "href": "slides/job/rsem.html#future-community",
+    "title": "Job Interview - ITRES1005",
+    "section": "Future: Community",
+    "text": "Future: Community\n\nResearch Computing Champions\nResearch Computing Conference\nInternational RSE Day Meetup (second Thursday in October)\n12 days of HPC\nTechTalk\nDrop-in Sessions\nResearch Computing Community (Teams channel)\nRegular meetings with CDTs and Schools\nCEMAC & LIDA & Library Team\nLeeds Digital Festival\nResearch IT Engagement Community\nBlog/Monthly newsletter"
+  },
+  {
+    "objectID": "slides/job/rsem.html#future-policy",
+    "href": "slides/job/rsem.html#future-policy",
+    "title": "Job Interview - ITRES1005",
+    "section": "Future: Policy",
+    "text": "Future: Policy\n\nSkills map\nDefine metrics\nMeasuring the impact of RSE\nAnnual Report\nRSE’s Career paths\nMentoring scheme or Intership Program for Junior RSEs\nSenior RSE / SubGoups - ML/web/database"
   }
 ]
